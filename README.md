@@ -1,4 +1,4 @@
-DiseñoInteractivo
+DisennoInteractivo
 ==================
 
 -Diseño Interactivo - 
