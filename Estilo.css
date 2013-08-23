@@ -4,4 +4,8 @@ html, body, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 	padding:0;
 	border:0;
 	outline:0;
+}.DivSuperior {
+	height:81px;
+	width:100%;
+	background-color:#3b5998;
 }
